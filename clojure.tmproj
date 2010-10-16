@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documents</key>
+	<array>
+		<dict>
+			<key>filename</key>
+			<string>../squareroot.clj</string>
+			<key>lastUsed</key>
+			<date>2010-10-13T13:31:56Z</date>
+			<key>selected</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>../euler3.clj</string>
+			<key>lastUsed</key>
+			<date>2010-10-13T13:31:54Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>../euler2.clj</string>
+			<key>lastUsed</key>
+			<date>2010-10-13T13:31:54Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>../euler1.clj</string>
+			<key>lastUsed</key>
+			<date>2010-10-13T13:31:55Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>../cuberoot.clj</string>
+			<key>lastUsed</key>
+			<date>2010-10-13T13:31:55Z</date>
+		</dict>
+	</array>
+	<key>fileHierarchyDrawerWidth</key>
+	<integer>200</integer>
+	<key>metaData</key>
+	<dict/>
+	<key>showFileHierarchyDrawer</key>
+	<false/>
+	<key>showFileHierarchyPanel</key>
+	<true/>
+	<key>treeState</key>
+	<dict/>
+	<key>windowFrame</key>
+	<string>{{0, 62}, {1920, 1116}}</string>
+</dict>
+</plist>
