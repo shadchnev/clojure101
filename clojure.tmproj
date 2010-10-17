@@ -2,52 +2,112 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>currentDocument</key>
+	<string>Project Euler/euler3.clj</string>
 	<key>documents</key>
 	<array>
 		<dict>
-			<key>filename</key>
-			<string>../squareroot.clj</string>
-			<key>lastUsed</key>
-			<date>2010-10-13T13:31:56Z</date>
-			<key>selected</key>
+			<key>expanded</key>
 			<true/>
+			<key>name</key>
+			<string>SICP</string>
+			<key>regexFolderFilter</key>
+			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
+			<key>sourceDirectory</key>
+			<string>SICP</string>
+		</dict>
+		<dict>
+			<key>expanded</key>
+			<true/>
+			<key>name</key>
+			<string>Project Euler</string>
+			<key>regexFolderFilter</key>
+			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
+			<key>sourceDirectory</key>
+			<string>Project Euler</string>
 		</dict>
 		<dict>
 			<key>filename</key>
-			<string>../euler3.clj</string>
+			<string>README</string>
 			<key>lastUsed</key>
-			<date>2010-10-13T13:31:54Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>../euler2.clj</string>
-			<key>lastUsed</key>
-			<date>2010-10-13T13:31:54Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>../euler1.clj</string>
-			<key>lastUsed</key>
-			<date>2010-10-13T13:31:55Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>../cuberoot.clj</string>
-			<key>lastUsed</key>
-			<date>2010-10-13T13:31:55Z</date>
+			<date>2010-10-16T15:33:54Z</date>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
 	<integer>200</integer>
 	<key>metaData</key>
-	<dict/>
+	<dict>
+		<key>Project Euler/euler1.clj</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>12</integer>
+				<key>line</key>
+				<integer>11</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>Project Euler/euler2.clj</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>8</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>Project Euler/euler3.clj</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>19</integer>
+				<key>line</key>
+				<integer>7</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>openDocuments</key>
+	<array>
+		<string>Project Euler/euler3.clj</string>
+		<string>Project Euler/euler2.clj</string>
+		<string>Project Euler/euler1.clj</string>
+	</array>
 	<key>showFileHierarchyDrawer</key>
 	<false/>
 	<key>showFileHierarchyPanel</key>
 	<true/>
 	<key>treeState</key>
-	<dict/>
+	<dict>
+		<key>Project Euler</key>
+		<dict>
+			<key>isExpanded</key>
+			<true/>
+			<key>subItems</key>
+			<dict/>
+		</dict>
+		<key>SICP</key>
+		<dict>
+			<key>isExpanded</key>
+			<true/>
+			<key>subItems</key>
+			<dict/>
+		</dict>
+	</dict>
 	<key>windowFrame</key>
-	<string>{{0, 62}, {1920, 1116}}</string>
+	<string>{{0, 62}, {1280, 716}}</string>
 </dict>
 </plist>
